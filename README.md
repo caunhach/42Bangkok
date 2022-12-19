@@ -10,8 +10,3 @@ The author is Chayapon Aunhachoke, who was officially selected to be a cadet of 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|-------------:|
 |      01       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       C       |               |              |             |
 
-<span style="background-color: red;">This text will have a red background</span>
-
-<span style="background-color: #00FF00;">This text will have a green background</span>
-
-<span style="background-color: rgb(255, 165, 0);">This text will have an orange background</span>
