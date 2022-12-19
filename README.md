@@ -1,6 +1,6 @@
 # 42Bangkok
 
-<h3>:open_file_folder: About Author</h3>
+<h3>:open_file_folder: Author</h3>
 
 The author is Chayapon Aunhachoke, who was officially selected to be a cadet of 42 Bangkok at 14th February 2023 (Day of love). Here is the list of projects I have done.
 
