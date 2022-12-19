@@ -6,6 +6,6 @@ The author is Chayapon Aunhachoke, who was officially selected to be a cadet of 
 
 <h3>:open_file_folder: Projects</h3>
 
-|Circle |Project  |Score  |Level  | Validated Date  |
-| ------------- |:-------------:|:-------------:|:-------------:|-------------:|
+|Circle |Project  |Language |Score  |Level  | Validated Date  |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|-------------:|
 |      01       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       C       |               |              |
