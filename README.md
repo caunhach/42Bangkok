@@ -1,4 +1,4 @@
-# 42Bangkok (14/02/2023)
+# 42Bangkok (Kick Off 14/02/2023)
 
 <h3>:open_file_folder: Projects</h3>
 
