@@ -5,5 +5,5 @@
 |Circle |Project  |Language | Brief Description of Projects
 | ------------- |:-------------:|:-------------:|:-------------:|
 |      00       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       C       |Create your own libc|
-|      03       |[Minishell](https://github.com/caunhach/minishell)     |       C       |Create your own bash shell|
+|      03       |[Minishell](https://github.com/caunhach/minishell)     |       C       |Create your own bash shell (on Mac)|
 |      04       |[CPP00](https://github.com/caunhach/CPP00)     |       C++       |c++ exercise|
