@@ -7,5 +7,6 @@
 |      00       |[Libft](https://github.com/caunhach/42cursus_Libft)     |       C       |Create your own libc|
 |      01       |[get_next_line](https://github.com/caunhach/get_next_line)     |       C       |Coding program in C for returning line with specific buffer until EOF|
 |      02       |[push_swap](https://github.com/caunhach/get_next_line)     |       C       |sort list of numbers using 2 stacks and provided operations|
+|      03       |[Philosophers](https://github.com/caunhach/minishell)     |       C       |Simulate threads competition with Philosophers problem|
 |      03       |[Minishell](https://github.com/caunhach/minishell)     |       C       |Create your own bash shell (on Mac)|
 |      04       |[CPP00](https://github.com/caunhach/CPP00)     |       C++       |c++ exercise|
