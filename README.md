@@ -14,4 +14,4 @@
 |      03       |[Philosophers](https://github.com/caunhach/Philosophers)    |       C       |Simulate threads competition with Philosophers problem|
 |      03       |[Minishell](https://github.com/caunhach/minishell)     |       C       |Create your own bash shell (on Mac)|
 |      04       |[CPP00](https://github.com/caunhach/CPP00)     |       C++       |c++ exercise|
-|      04       |[CPP01](https://github.com/caunhach/CPP00)     |       C++       |c++ exercise|
+|      04       |[CPP01](https://github.com/caunhach/CPP01)     |       C++       |c++ exercise|
