@@ -17,5 +17,5 @@
 |      04       |[CPP01](https://github.com/caunhach/CPP01)     |       C++       |c++ exercise|
 |      04       |[CPP02](https://github.com/caunhach/CPP02)    |       C++       |c++ exercise|
 |      04       |[CPP03](https://github.com/caunhach/CPP03)    |       C++       |c++ exercise|
-|      04       |[CPP04](https://github.com/caunhach/CPP03)    |       C++       |c++ exercise|
+|      04       |[CPP04](https://github.com/caunhach/CPP04)    |       C++       |c++ exercise|
 |      04       |[CUB3D](https://github.com/caunhach/CUB3D)     |       C       |create game with ray-casting|
